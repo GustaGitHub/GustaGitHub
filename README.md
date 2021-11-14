@@ -2,7 +2,7 @@
 
 - <p>Seja bem-vindo ao meu portifólio, me chamo Gustavo Ribeiro, tenho 18 anos, meu objetivo é ser um desenvolvedor Front-End, atualmente eu estudo a biblioteca Node.js e estou a busca de uma oportunidade como estagiário.</p>
 
-### Tecnologias Dominadas:
+### Tecnologias Vivenciadas
 
 <div style="display: grid; grid-gap: 1px">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
