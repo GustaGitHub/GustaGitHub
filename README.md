@@ -1,6 +1,6 @@
 <h1>Gustavo Ribeiro</h1>
 
-- <p>Seja bem-vindo ao meu portifólio, me chamo Gustavo Ribeiro, tenho 18 anos, meu objetivo é ser um desenvolvedor Front-End, atualmente eu estudo a biblioteca Node.js e estou a busca de uma oportunidade como estagiário.</p>
+- <p>Seja bem-vindo ao meu portifólio, me chamo Gustavo Ribeiro, tenho 18 anos, meu objetivo é ser um desenvolvedor web, atualmente eu estudo a biblioteca Node.js e estou a busca de uma oportunidade como estagiário.</p>
 
 ### Tecnologias Vivenciadas
 
