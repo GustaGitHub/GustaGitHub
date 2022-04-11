@@ -1,6 +1,6 @@
 <h1>Gustavo Ribeiro</h1>
 
-- <p>Seja bem-vindo ao meu portfólio, me chamo Gustavo Ribeiro, tenho 18 anos, meu objetivo é ser um desenvolvedor web, atualmente eu estou fazendo graduação em Análise e Desenvolvimento de sistemas na Universidade de Franca, estudo a biblioteca Node.js com Express.js </p>
+- <p>Seja bem-vindo ao meu portfólio, me chamo Gustavo Ribeiro, tenho 18 anos, meu objetivo é ser um desenvolvedor web, atualmente eu estou fazendo graduação em Análise e Desenvolvimento de sistemas na Universidade de Franca e também, estudo a biblioteca Node.js com Express.js </p>
 
 <br/>
 
