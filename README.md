@@ -1,6 +1,6 @@
 <h1>Gustavo Ribeiro</h1>
 
-- <p>Seja bem-vindo ao meu portfólio, me chamo Gustavo Ribeiro, tenho 18 anos, meu objetivo é ser um desenvolvedor fullstack de sucesso e poder participar de uma equipe de tecnologia onde eu possa contribuir com os meus conhecimentos, atualmente eu estou fazendo graduação em Análise e Desenvolvimento de sistemas na Universidade de Franca e também, estudo a biblioteca Node.js com Express.js </p>
+- <p>Seja bem-vindo ao meu Repositório, me chamo <strong>Gustavo Ribeiro</strong>, tenho 18 anos, <strong>meu objetivo profissional é ser um desenvolvedor fullstack de sucesso e poder participar de uma equipe de tecnologia onde eu possa contribuir com os meus conhecimentos</strong>, atualmente eu estou cursando o 1° Semestre em Análise e Desenvolvimento de sistemas na Universidade de Franca e também, estudo a biblioteca Node.js com Express.js </p>
 
 <br/>
 
