@@ -1,5 +1,4 @@
-- Seja Bem-vindo ao meu Repositório, me chamo <strong>Gustavo Ribeiro</strong>, tenho 18 anos, <strong>meu objetivo profissional é ser um desenvolvedor Full-Stack de sucesso e poder participar de uma equipe de tecnologia onde eu possa contribuir com os meus conhecimentos</strong>, atualmente eu estou cursando o 2° Semestre em Análise e Desenvolvimento de sistemas na Universidade de Franca e também, estudo a biblioteca Node.js com Express.js
-<br/>
+- Seja Bem-vindo ao meu Repositório, me chamo <strong>Gustavo Ribeiro</strong>, tenho 18 anos, <strong>meu objetivo profissional é ser um desenvolvedor Full-Stack de sucesso e poder participar de uma equipe de tecnologia onde eu possa contribuir com os meus conhecimentos</strong>, atualmente eu estou cursando o 2° Semestre em Análise e Desenvolvimento de sistemas na Universidade de Franca.
 
 ### Tecnologias Vivenciadas
 
