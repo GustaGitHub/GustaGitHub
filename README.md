@@ -1,4 +1,4 @@
-## Bio
+## About me
 - 👨‍💻 Hi, I'm Gustavo Ribeiro, a simple web developer  
 - 🏫 graduanting in systems analysis and development
 - 😅 and... only that
