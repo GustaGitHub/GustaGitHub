@@ -1,7 +1,7 @@
 ## About me
 - 👨‍💻 Hi, I'm Gustavo Ribeiro, a simple web developer JR  
 - 🏫 graduanting in systems analysis and development
-- 😅 and... only it
+- 📚 I'm always looking to improve my knowledge in IT  
 
 <hr/>
 
