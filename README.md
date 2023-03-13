@@ -1,10 +1,3 @@
-## About me
-- 👨‍💻 Hi, I'm Gustavo Ribeiro, a simple web developer JR
-- 🌄 I live in Brazil.
-- 🏫 graduanting in systems analysis and development
-- 📚 I'm always looking to improve my knowledge in IT  
-
-<hr/>
 
 ## Hard Skills:
 <div>
