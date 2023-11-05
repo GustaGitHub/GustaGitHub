@@ -1,4 +1,3 @@
-
 ## Hard Skills:
 <div>
   <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
